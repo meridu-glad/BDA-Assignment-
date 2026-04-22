@@ -1,0 +1,4 @@
+TAXI DEMAND FORECASTING USING SPATIO-TEMPORAL BEHAVIOURAL MODELLING
+
+Throughout this project, we assume the role of Data Scientists employed by a small urban mobility startup operating in a resource-constrained environment. The organisation seeks to replicate data-driven decision-making practices observed in large transport platforms, but must do so without access to cloud computing infrastructure. All analytical workflows are executed locally on a single machine using Apache Spark in local execution mode.
+This role shapes every decision made in this report from architecture choices to model selection, from processing strategy to deployment considerations. The context of operating without cloud access, with limited RAM and storage, and with batch data in Parquet format is consistently applied across all milestones
